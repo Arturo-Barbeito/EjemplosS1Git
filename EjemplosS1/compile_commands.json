@@ -1,0 +1,17 @@
+[{
+  "file": "C:\\LabEDD\\Ejemplo11\\main.cpp",
+  "directory": "C:\\LabEDD\\Ejemplo11",
+  "command": "clang++ -c C:\\LabEDD\\Ejemplo11\\main.cpp -o C:\\LabEDD\\Ejemplo11\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\LabEDD\\Ejemplo12\\main.cpp",
+  "directory": "C:\\LabEDD\\Ejemplo12",
+  "command": "clang++ -c C:\\LabEDD\\Ejemplo12\\main.cpp -o C:\\LabEDD\\Ejemplo12\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\LabEDD\\Ejemplo10\\main.cpp",
+  "directory": "C:\\LabEDD\\Ejemplo10",
+  "command": "clang++ -c C:\\LabEDD\\Ejemplo10\\main.cpp -o C:\\LabEDD\\Ejemplo10\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\LabEDD\\Ejemplo09\\main.cpp",
+  "directory": "C:\\LabEDD\\Ejemplo09",
+  "command": "clang++ -c C:\\LabEDD\\Ejemplo09\\main.cpp -o C:\\LabEDD\\Ejemplo09\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
