@@ -1,0 +1,1 @@
+../build-Debug/Ejemplo13/up_Pilas_Persona.cpp.o   
